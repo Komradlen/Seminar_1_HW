@@ -1,0 +1,15 @@
+C:\Users\August\HomeWord\HWFinal\bin\Debug\net6.0\HWFinal.exe
+C:\Users\August\HomeWord\HWFinal\bin\Debug\net6.0\HWFinal.deps.json
+C:\Users\August\HomeWord\HWFinal\bin\Debug\net6.0\HWFinal.runtimeconfig.json
+C:\Users\August\HomeWord\HWFinal\bin\Debug\net6.0\HWFinal.dll
+C:\Users\August\HomeWord\HWFinal\bin\Debug\net6.0\HWFinal.pdb
+C:\Users\August\HomeWord\HWFinal\obj\Debug\net6.0\HWFinal.csproj.AssemblyReference.cache
+C:\Users\August\HomeWord\HWFinal\obj\Debug\net6.0\HWFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\August\HomeWord\HWFinal\obj\Debug\net6.0\HWFinal.AssemblyInfoInputs.cache
+C:\Users\August\HomeWord\HWFinal\obj\Debug\net6.0\HWFinal.AssemblyInfo.cs
+C:\Users\August\HomeWord\HWFinal\obj\Debug\net6.0\HWFinal.csproj.CoreCompileInputs.cache
+C:\Users\August\HomeWord\HWFinal\obj\Debug\net6.0\HWFinal.dll
+C:\Users\August\HomeWord\HWFinal\obj\Debug\net6.0\refint\HWFinal.dll
+C:\Users\August\HomeWord\HWFinal\obj\Debug\net6.0\HWFinal.pdb
+C:\Users\August\HomeWord\HWFinal\obj\Debug\net6.0\HWFinal.genruntimeconfig.cache
+C:\Users\August\HomeWord\HWFinal\obj\Debug\net6.0\ref\HWFinal.dll
