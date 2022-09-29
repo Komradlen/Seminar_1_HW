@@ -1,4 +1,4 @@
-﻿//Просто для дальнейшего удобства
+﻿/Для дальнейшего удобства
 int InputInt(string output)
 {
     Console.Write(output);
